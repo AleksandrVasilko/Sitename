@@ -1,0 +1,111 @@
+body {
+  max-width: 1448px;
+  margin: 0 auto;
+}
+
+header {
+  text-transform: uppercase;
+}
+
+.logo {
+  font-family: Oswald;
+  font-size: 48px;
+  line-height: 1.2;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #eb3c00;
+  text-decoration: none;
+  margin-left: 160px;
+}
+
+.logo span {
+  opacity: 0.5;
+  font-family: 'PT Serif';
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 400;
+  font-style: italic;
+  color: #282828;
+  text-transform: lowercase;
+}
+
+.login {
+  font-family: 'PT Serif';
+  font-size: 13px;
+  line-height: 1.2;
+  font-weight: 400;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #282828;
+  text-decoration: none;
+}
+
+.contact {
+  font-family: 'PT Serif';
+  font-size: 13px;
+  line-height: 1.2;
+  font-weight: 400;
+  font-style: italic;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #ee4400;
+  text-decoration: none;
+  padding: 15px 55px;
+  margin: 30px 160px 30px 30px;
+}
+
+nav {
+  background: #282828;
+}
+
+nav a {
+  font-family: Oswald, sans-serif;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 15px;
+  margin: 10px;
+}
+
+nav li {
+  display: inline;
+}
+
+h1 {
+  font-family: Oswald, sans-serif;
+  font-size: 48px;
+  line-height: 60px;
+  font-weight: 400;
+  color: #282828;
+}
+
+h2 {
+  font-family: 'PT Serif';
+  font-size: 18px;
+  line-height: 27px;
+  font-weight: 700;
+  color: #282828;
+  font-weight: 400;
+}
+
+h3 {
+  font-family: Oswald;
+  font-size: 14px;
+  line-height: 27px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #eb3c00;
+}
+
+main {
+  max-width: 1128px;
+  margin: 0 auto;
+}
+
+footer li {
+  display: inline;
+}
